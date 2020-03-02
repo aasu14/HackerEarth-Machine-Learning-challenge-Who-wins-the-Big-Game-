@@ -17,6 +17,7 @@ This challenge will help you enhance your knowledge of classification as it is o
 We challenge you to build a model that classifies whether a given team will win or lose on the Game Day.
 
 # Leaderboard
-![title](leaderboard.png)
+* **[LB](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-big-game-winner/leaderboard/who-wins-the-big-game-b082f0e8/)
+![title](Leaderboard.png)
 
 
