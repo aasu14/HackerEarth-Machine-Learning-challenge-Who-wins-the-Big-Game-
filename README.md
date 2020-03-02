@@ -18,4 +18,4 @@ We challenge you to build a model that classifies whether a given team will win 
 
 # Leaderboard
 * **[LB](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-big-game-winner/leaderboard/who-wins-the-big-game-b082f0e8/)
-![title](leaderboard.png)
+! leaderboard.png
